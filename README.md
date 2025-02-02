@@ -1,2 +1,1 @@
-# blog
-BadConfig's blog
+# BadConfig's blog
