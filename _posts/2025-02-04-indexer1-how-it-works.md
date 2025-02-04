@@ -32,7 +32,7 @@ Why? It involves further operation:
 
 - Ask about balance of address 1
 - Ask about balance of address 2
-- Repeat for all existing addresses, which is a 20 byte number (2^160, it's approvimately a number with 50 digits)
+- Repeat for all existing addresses, which is a 20 byte number (2^160, it's approximately a number with 50 digits)
 
 <div class="img-wrap">
     <img src="/assets/img/2025-02/retreive-balances.png" width="400" />
