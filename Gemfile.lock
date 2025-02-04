@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/badconfig/jekyll-theme-console.git
-  revision: a00dac3e5f22c6c4b7de6f3e6fb2d2013e5bca94
-  specs:
-    jekyll-theme-console (0.4.0)
-      jekyll (>= 3.5)
-      jekyll-seo-tag
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -336,7 +328,6 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  jekyll-theme-console!
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1)

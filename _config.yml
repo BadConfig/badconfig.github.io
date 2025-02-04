@@ -28,9 +28,10 @@ twitter_username: badconfig_eth
 github_username:  badconfig
 
 # Build settings
-theme: jekyll-theme-console
+#theme: jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - index.md

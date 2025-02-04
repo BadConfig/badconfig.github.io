@@ -10,11 +10,13 @@ permalink: /about/
 </div>
 I'm BadConfig. 
 I was working in crypto as a developer enough to be encounted as an old guy here. 
-- Senior developer for last 11 years.
-- Mainly use Rust but if it's nesessary will code on the microwave.
-- Car enjoyer.
-<br/>
-<br/>
+
+<ul class="no-border-list">
+ <li>- Senior developer for last 11 years. </li>
+ <li>- Mainly use Rust but if it's nesessary will code on the microwave. </li>
+ <li>- Car enjoyer. </li>
+</ul>
+
 I post here about crypto and other things, sometimes technical sometimes not.
 
 [My github](https://github.com/BadConfig)
