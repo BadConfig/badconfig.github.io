@@ -39,7 +39,7 @@ Why? It involves further operation:
     <p>Scheme for example above</p>
 </div>
 
-And it could make sence, but most of these balances are zero as most of users not exit. Let's say we have one million token holders, you definately don't want to wait next decade for your kinds to know top memecoin holders. We definately want to receive only this "in use" million addresses information rather than receiving everything.
+And it could make sence, but most of these balances are zero as most of users not exit. Let's say we have one million token holders, you definately don't want to wait for a century to know top memecoin holders. We definately want to receive only this "in use" million addresses information rather than receiving everything.
 
 <div class="quote-wrap">
     <img src="/assets/img/thinking_kiddy.jpg" width="50" />
@@ -147,5 +147,5 @@ For this, Indexer1 allows a more flexible strategy involving websocket subscritp
 [github repo](https://github.com/BadConfig/indexer1)
 [docs.rs](https://docs.rs/indexer1/latest/indexer1/)
 
-If you have any questions or want to contribute - open issue, let's make this thing better togeather.
+If you have any questions or want to contribute - open issue, let's make this thing better together.
 Bye
